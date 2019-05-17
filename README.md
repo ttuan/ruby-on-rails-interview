@@ -30,6 +30,7 @@ Giả dụ ta có 1 cái TV, thì MVC tương ứng với những bộ phận n�
 + Cơ chế của chức năng đăng ký, login qua Facebook như thế nào?
 + Từ khóa `yeild` trong Ruby được dùng ntn
 + Cơ chế phân trang hoạt động như thế nào.
++ Phan biet `private`, `public` and `protected`. Class con van goi duoc ham private trong class cha, vay `private` trong Ruby de lam gi? :v [case_study](https://snippets.cacher.io/snippet/fe39ac92580f09e0b0bd)
 
 |  So sanh |   |
 |---|--:|
@@ -38,7 +39,7 @@ Giả dụ ta có 1 cái TV, thì MVC tương ứng với những bộ phận n�
 | `Class`  | `Module`  |
 | `Gemfile` | `Gemfile.lock` |
 | `find` | `find_by` |
-| `includes` | `extends`|
+| `include` | `extend`, `prepend`|
 |`after_save`|  `after_commit` |
 
 ## Unit test
