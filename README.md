@@ -107,6 +107,7 @@ Case study:
 * Level kế thừa cao nhất của object là gì? (`BasicObject`)
 * Có thể init symbol bằng `Symbol.new` được không? Tại sao?
 * So sánh symbol và string. [Source](https://viblo.asia/p/string-and-symbol-in-ruby-3Q75wW1e5Wb)
+* Mutable và Immutable là gì? Trong Ruby, những kiểu dữ liệu nào là immutable?(fixnum, float, symbol, true/false/nil/undefined)
 
 #### 4. Fun facts
 * Có phải mọi thứ trong Ruby đều là object không? Nếu không thì cho ví dụ? (method vs block không phải)
