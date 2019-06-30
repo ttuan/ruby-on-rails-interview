@@ -28,6 +28,7 @@ Trong các dự án đã làm, trình bày 1 vài vấn đề gì hay ho/khó kh
 + Flow của Oauth2 là gì? - [source](https://viblo.asia/p/introduction-to-oauth2-3OEqGjDpR9bL)
 #### 3. Advanced
 + HTTPS hoạt động như thế nào? Tại sao nó bảo mật hơn HTTP? - [source](https://viblo.asia/p/hieu-hon-ve-https-voi-vi-du-bo-cau-dua-thu-OeVKBojQZkW)
++ Throughput và Latency là gì? Cho ví dụ? Nêu 1 số cách xác định/ cải thiện throughput và Latency của hệ thống. [source](https://nghethuatcoding.com/2019/05/18/test-tai-he-thong-thuc-su-can-thiet/)
 
 ## Rails
 #### 1. Basic
@@ -84,6 +85,7 @@ Trong các dự án đã làm, trình bày 1 vài vấn đề gì hay ho/khó kh
 	* Tại sao class con lại có thể gọi được method private của class cha?
 	* [Case Study](https://snippets.cacher.io/snippet/fe39ac92580f09e0b0bd)
 	* Gọi tường minh và không tường minh trong Ruby.
++ Phân biệt `instance variable` và `class variable`
 
 #### 2. Middle
 + Metaprograming là gì? Đã từng sử dụng kỹ thuật nào liên quan đến nó chưa?
@@ -98,16 +100,17 @@ Case study:
 * [Array and Boolean](https://snippets.cacher.io/snippet/f3a5c617b3d4d6758469)
 * [Truly and Falsy](https://snippets.cacher.io/snippet/b99bdbad2bdbef77e66b)
 * [Hash.first and Hash.last](https://snippets.cacher.io/snippet/bf8b896d686b5892218c)
+* [b - String hidden method](https://snippets.cacher.io/snippet/efc840a9a6087cd25ecb)
 
 #### 3. Advanced
 * Ruby có phụ thuộc vào whitespace không? Nếu có thì cho ví dụ?
 * Level kế thừa cao nhất của object là gì? (`BasicObject`)
 * Có thể init symbol bằng `Symbol.new` được không? Tại sao?
 * So sánh symbol và string. [Source](https://viblo.asia/p/string-and-symbol-in-ruby-3Q75wW1e5Wb)
+* Mutable và Immutable là gì? Trong Ruby, những kiểu dữ liệu nào là immutable?(fixnum, float, symbol, true/false/nil/undefined)
 
 #### 4. Fun facts
 * Có phải mọi thứ trong Ruby đều là object không? Nếu không thì cho ví dụ? (method vs block không phải)
-
 
 ## Unit test
 #### 1. Basic
@@ -191,5 +194,3 @@ Case study:
 
 ## Third party services
 \# TODO: AWS, GG Cloud, Firebase, ...
-
-
