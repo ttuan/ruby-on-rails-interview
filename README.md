@@ -67,7 +67,7 @@ Trong các dự án đã làm, trình bày 1 vài vấn đề gì hay ho/khó kh
 + Gems:
 	* Đã thử viết gems bao giờ chưa?
 	* Lấy vd về 1 số gem cơ bản (`devise`, ..) xem mức hiểu biết ntn? (biết dùng, override lại hàm, ...)
-
++ Có nên đặt phần gửi mail ở bên trong transaction hay không? Nếu đặt cuối của transaction thì có được không? Tại sao - [Source](https://github.com/ttuan/today-i-learned/blob/master/code/rails/rails-mailer-problem.md)
 
 #### 3. Advanced
 + Rails session hoạt động như thế nào? - [Source](https://www.justinweiss.com/articles/how-rails-sessions-work/)
